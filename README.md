@@ -3,7 +3,9 @@
 ### Step 0
 Learn LaTeX and choose an editor (Overleaf, TexStudio). Install LaTeX if needed.
 ### Step 1
-Create a folder for the concise review, if you're using an online editor make a new blank project. Download the `main.tex` file and move it to the folder (or upload it to the online editor).
+Create a folder for the concise review, if you're using an online editor make a new blank project. 
+### Step 1.5
+Download the `main.tex` file and move it to the folder (or upload it to the online editor). Go to the `main.tex` file and click on the "raw" button in the top right corner. Then save the file (cmd/ctrl + s) and it should be downloaded. This is the linke to the [main.tex file](https://raw.githubusercontent.com/tsgoten/modern-physics-concise/master/main.tex)
 ### Step 2
 Compile and View the `main.tex` file. You should see a title page.
 ### Step 3
