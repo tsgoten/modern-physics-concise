@@ -54,9 +54,9 @@ This is what a sample chapter file will look like
       \item second thing
    \end{enumerate}
 ```
-# Instructions for Images
+## Instructions for Images
 Create a folder called `graphics` and put all your images in there to have them appear in your pdf. 
-# Instructions for Git users
+## Instructions for Git users
 Please do not commit and push your `main.tex` file or any other files. The only file that you may commit is your chapter files. Collaborators are allowed to commit so just be careful. Raise issues and we can try and fix it. 
-# Known Issues
+## Known Issues
 After you compile if you see Chapter 1 as the title that is okay. This happens because locally you may only have one chapter. But once we compile all our files together at the end, the numbering will sort itself out. 
