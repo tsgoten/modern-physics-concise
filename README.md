@@ -41,6 +41,21 @@ Go to the `main.tex` file and uncomment the line at the bottom for your chapter 
 ```
 ### Step 4
 Begin your `chapter00.tex` file with `\chapter{Chapter Title}`; After that you are free to use `\section` and `\subsection` command. Refer to the example file. Refer to the `chapter02.tex` file for details.
+### Step 5
+This is what a sample chapter file will look like 
+```
+\chapter{Chapter Title}
+
+\section{Introduction}
+   Hi guys
+\section{Exercises}
+   \begin{enumerate}
+      \item first thing
+      \item second thing
+   \end{enumerate}
+```
+# Instructions for Images
+Create a folder called `graphics` and put all your images in there to have them appear in your pdf. 
 # Instructions for Git users
 Please do not commit and push your `main.tex` file or any other files. The only file that you may commit is your chapter files. Collaborators are allowed to commit so just be careful. Raise issues and we can try and fix it. 
 # Known Issues
