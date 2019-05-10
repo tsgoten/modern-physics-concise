@@ -11,29 +11,29 @@ Now in the same folder (or project) create a file using the following format `ch
 ### Step 3.5
 Go to the `main.tex` file and uncomment the line at the bottom for your chapter number. For example, for chapter 2 I would go down to the bottom and make this change. ONLY uncomment the lines for the chapters you have. 
 ```
-    \tableofcontents
+\tableofcontents
 
-    % Chapters - EDIT THIS TO VIEW YOUR FILE
-    % Uncomment the line and name your file to compile
-    
-    %\input{chapter01.tex}
-    \input{chapter02.tex}
-   	%\input{chapter03.tex}
-   	%\input{chapter04.tex}
-   	%\input{chapter05.tex}
-   	%\input{chapter06.tex}
-   	%\input{chapter07.tex}
-   	%\input{chapter08.tex}
-   	%\input{chapter09.tex}
-   	%\input{chapter10.tex}
-   	%\input{chapter11.tex}
-   	%\input{chapter12.tex}
-   	%\input{chapter13.tex}
-   	%\input{chapter14.tex}
-   	%\input{chapter15.tex}
-   	%\input{chapter16.tex}
-   	%\input{chapter17.tex}
-   	%\input{chapter18.tex}
+% Chapters - EDIT THIS TO VIEW YOUR FILE
+% Uncomment the line and name your file to compile
+
+%\input{chapter01.tex}
+\input{chapter02.tex}
+%\input{chapter03.tex}
+%\input{chapter04.tex}
+%\input{chapter05.tex}
+%\input{chapter06.tex}
+%\input{chapter07.tex}
+%\input{chapter08.tex}
+%\input{chapter09.tex}
+%\input{chapter10.tex}
+%\input{chapter11.tex}
+%\input{chapter12.tex}
+%\input{chapter13.tex}
+%\input{chapter14.tex}
+%\input{chapter15.tex}
+%\input{chapter16.tex}
+%\input{chapter17.tex}
+%\input{chapter18.tex}
    	
 \end{document}
 ```
