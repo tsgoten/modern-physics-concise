@@ -38,4 +38,8 @@ Go to the `main.tex` file and uncomment the line at the bottom for your chapter 
 \end{document}
 ```
 ### Step 4
-Begin your `chapter00.tex` file with `\chapter{Chapter Title}`; After that you are free to use `\section` and `\subsection` command. Refer to the example file. Refer to the `chapter02.tex` file for details. 
+Begin your `chapter00.tex` file with `\chapter{Chapter Title}`; After that you are free to use `\section` and `\subsection` command. Refer to the example file. Refer to the `chapter02.tex` file for details.
+# Instructions for Git users
+Please do not commit and push your `main.tex` file or any other files. The only file that you may commit is your chapter files. Collaborators are allowed to commit so just be careful. Raise issues and we can try and fix it. 
+# Known Issues
+After you compile if you see Chapter 1 as the title that is okay. This happens because locally you may only have one chapter. But once we compile all our files together at the end, the numbering will sort itself out. 
